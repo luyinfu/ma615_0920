@@ -62,8 +62,6 @@ kable(tbl_1, format = "latex", booktabs=TRUE, digits = 2,     ## call kable to m
 
 
 
-
-
 ```
 
 
