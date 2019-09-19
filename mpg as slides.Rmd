@@ -147,7 +147,7 @@ kable(tbl_2, digits = 2, format = "html", booktabs=TRUE, ,caption = "Top 3 MPG P
 
 ```
 
-## City Mileage By Class of Cars I
+## City Mileage Regression on Engine Displacement By Class of Cars 
 
 ```{r}
 
@@ -164,7 +164,7 @@ ggplot(mpg) +
 ```
 
  
-## City Mileage By Class of Cars II
+## Highway Mileage Regression on Engine Displacement By Class of Cars 
 
 ```{r}
  ggplot(mpg) +
@@ -200,10 +200,5 @@ ggplot(mpg) +
   labs(x = "Car Class", y = "Highway Mileage", title = "Highway MPG by Class of Car: 1999, 2008")
 
 ```
-
-
-
-
-
 
 
