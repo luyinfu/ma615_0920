@@ -1,5 +1,5 @@
 ---
-title: "Class Assignment: MPG tables and charts"
+title: "MPG tables and charts as pdf"
 author: "MA615"
 date: "September 9, 2019"
 output: pdf_document
@@ -12,7 +12,7 @@ library(esquisse)             ## use esquisse to setup the basic plots
 
 library(kableExtra)
 library(magrittr)
-opts_chunk$set(echo = TRUE)
+opts_chunk$set(echo = FALSE)
 ```
 
 # Class assignment:
