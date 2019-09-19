@@ -18,7 +18,7 @@ Extract from:
 Bradley Efron and Trevor Hastie  
 *Computer Age Statistical Inference: Algorithms, Evidence, and Data Science  
 Cambridge University Press, 2016  
-https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf*</div>
+https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf*
 
 &nbsp;
 
